@@ -1,0 +1,2 @@
+# Vendors
+PHP, MySQL, JQuery
